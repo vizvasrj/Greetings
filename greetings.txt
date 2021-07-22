@@ -1,19 +1,4 @@
-hindi
----------
-namaste
-subh pratah
-sub ratri
-
-french
------------
-Bonjour
-Bonne nuit
-Bonne soiree
-
-Chinese
----------
 ni hao
 wanan
 zaihui
-
-
+Wanshang hao
