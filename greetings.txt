@@ -1,3 +1,9 @@
+hindi
+---------
+namaste
+subh pratah
+sub ratri
+
 french
 -----------
 Bonjour
@@ -9,4 +15,5 @@ Chinese
 ni hao
 wanan
 zaihui
+
 
