@@ -1,11 +1,4 @@
 namaste
 subh ratri
 subh pratha
-ni hao
-wanan
-zaihui
-Wanshang hao
-Bonjour
-Bonne nuit
-Bonne soiree
-Bonne salve
+Namaskar
