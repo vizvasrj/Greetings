@@ -3,3 +3,10 @@ french
 Bonjour
 Bonne nuit
 Bonne soiree
+
+Chinese
+---------
+ni hao
+wanan
+zaihui
+
