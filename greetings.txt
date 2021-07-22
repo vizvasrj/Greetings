@@ -1,5 +1,4 @@
-french
------------
 Bonjour
 Bonne nuit
 Bonne soiree
+Bonne salve
